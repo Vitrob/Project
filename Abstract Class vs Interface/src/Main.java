@@ -2,7 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Abstract c");
 
         System.out.println("[Abstract Class]");
         Weather weather = new Weather();
