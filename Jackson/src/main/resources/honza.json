@@ -1,0 +1,9 @@
+{
+  "quantity": 18,
+  "quality": "NEW",
+  "engine": 1.4,
+  "working": false,
+  "color": {
+    "name": "green"
+  }
+}
